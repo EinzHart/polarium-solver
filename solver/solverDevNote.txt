@@ -1,0 +1,7 @@
+12/9/2018
+Finished my first commit.
+Using console as I/O source. 
+I am too happy to clean up debug output.
+Simple and plain DFS algorithm.
+Next step, practice(or probably learn) the object oriented programming.
+Wrap stuff into classes and learn an efficient way to use them.
